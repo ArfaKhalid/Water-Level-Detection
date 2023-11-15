@@ -1,2 +1,2 @@
-# Water-Level-Detection-
+# Water-Level-Detection
 USGS data retrieval for water level detection 
